@@ -1,0 +1,7 @@
+<pre>
+<img src="d9vdfkc4vl2ej.cloudfront.net/image/cloud-computing-cyber-security.jpg" height="200px" weidth="200px">
+<?php>
+print "cloud task \n";
+print 'ifconfig';
+?>
+</pre>
